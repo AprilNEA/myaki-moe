@@ -42,7 +42,7 @@ Hi, there. This is Myaki, an embedded engineer & Open Source enthusiast. I will 
 
 * ![](https://img.shields.io/badge/-RT%20Thread-808080?style=flat)
 ![](https://img.shields.io/badge/-FreeRTOS-808080?style=flat)
-![](https://img.shields.io/badge/-QT-808080?style=flat)
+![](https://img.shields.io/badge/-QT-808080?style=flat&logo=Qt&logoColor=white)
 
 ### 💬 联系我 | Contact Me
 
